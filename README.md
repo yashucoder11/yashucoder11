@@ -8,6 +8,8 @@
 
 ## 💫 About Me
 
+🚀 Assistant Professor
+  
 🚀 Passionate technology enthusiast with **3+ years of experience in Full Stack Development**.
 
 💻 Experienced in building websites, web applications, backend systems, and automation solutions.
