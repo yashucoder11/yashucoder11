@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yashawanth R
 
-<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast | Android Security Researcher</h3>
+<h3 align="center">Full Stack Developer | Cybersecurity Enthusiast |Security Researcher</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Yashawanth%20R&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
@@ -14,7 +14,7 @@
 
 💻 Experienced in building websites, web applications, backend systems, and automation solutions.
 
-🔐 Interested in **Android Security Research, Bug Hunting**.
+🔐 Interested in **Security Research, Bug Hunting**.
 
 🎯 My goal is to build innovative solutions while continuously improving my development and cybersecurity skills.
 
